@@ -12,3 +12,7 @@ ext/rp-lkm/
 !ext/rp-lkm/.gitkeep
 custom/
 !custom/.gitkeep
+config/.DS_Store
+config/DS3615xs/.DS_Store
+config/DS3615xs/7.0.1-42218/.DS_Store
+config/DS918+/.DS_Store

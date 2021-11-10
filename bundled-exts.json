@@ -1,4 +1,8 @@
 {
-  "thethorgroup.virtio": "https://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/rpext-index.json",
-  "thethorgroup.boot-wait": "https://raw.githubusercontent.com/RedPill-TTG/redpill-boot-wait/master/rpext-index.json"
+  "e1000": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/rpext-index.json",
+  "e1000e": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/rpext-index.json",
+  "igb": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/rpext-index.json",
+  "ixgbe": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe/rpext-index.json",
+  "mpt2sas": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt2sas/rpext-index.json",
+  "mpt3sas": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt3sas/rpext-index.json"
 }
