@@ -1,5 +1,5 @@
 {
-  "e1000": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/rpext-index.json",
+  "thethorgroup.boot-wait": "https://raw.githubusercontent.com/tossp/rp-ext/master/redpill-boot-wait/rpext-index.json",
   "e1000e": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/rpext-index.json",
   "igb": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/rpext-index.json",
   "ixgbe": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe/rpext-index.json",
